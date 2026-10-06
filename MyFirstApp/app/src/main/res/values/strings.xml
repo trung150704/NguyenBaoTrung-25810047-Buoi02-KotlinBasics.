@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profile Card Demo</string>
+    <string name="user_name">Nguyen Bao Trung</string>
+    <string name="user_job">Android Developer</string>
+</resources>
