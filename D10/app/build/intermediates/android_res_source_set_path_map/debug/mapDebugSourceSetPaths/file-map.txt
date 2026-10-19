@@ -1,0 +1,8 @@
+com.example.d10.app-pngs-0 D:\HCMUTE\D10\app\build\generated\res\pngs\debug
+com.example.d10.app-updated_navigation_xml-1 D:\HCMUTE\D10\app\build\generated\updated_navigation_xml\debug
+com.example.d10.app-packageDebugResources-2 D:\HCMUTE\D10\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.d10.app-packageDebugResources-3 D:\HCMUTE\D10\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.d10.app-debug-4 D:\HCMUTE\D10\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.d10.app-debug-5 D:\HCMUTE\D10\app\src\debug\res
+com.example.d10.app-main-6 D:\HCMUTE\D10\app\src\main\res
+gradleHome-0 C:\Users\Nbt15\.gradle
