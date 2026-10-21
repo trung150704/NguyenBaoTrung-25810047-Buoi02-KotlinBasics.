@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ghi chú</string>
+    <string name="top_bar_title">Ghi chú của tôi</string>
+    <string name="search_hint">Tìm kiếm ghi chú…</string>
+    <string name="add_note">Thêm ghi chú</string>
+    <string name="note_added">Đã thêm ghi chú mới thành công!</string>
+    <string name="note_deleted">Đã xóa ghi chú</string>
+    <string name="just_now">Vừa xong</string>
+    <string name="nav_notes">Ghi chú</string>
+    <string name="nav_favorites">Yêu thích</string>
+    <string name="nav_settings">Cài đặt</string>
+
+    <string name="sample_note_title_1">Học Jetpack Compose</string>
+    <string name="sample_note_content_1">Tìm hiểu về MaterialTheme, Scaffold, OutlinedTextField, Cards, FAB và Snackbar trong Compose.</string>
+    <string name="sample_note_date_1">10:30 sáng</string>
+
+    <string name="sample_note_title_2">Đi chợ mua đồ</string>
+    <string name="sample_note_content_2">Mua sữa, bánh mì tươi, trái cây và rau củ cho tuần tới.</string>
+    <string name="sample_note_date_2">Hôm qua</string>
+
+    <string name="sample_note_title_3">Họp đánh giá dự án</string>
+    <string name="sample_note_content_3">Chuẩn bị slide thiết kế UI/UX cho buổi thuyết trình lúc 14:00 chiều nay.</string>
+    <string name="sample_note_date_3">2 ngày trước</string>
+</resources>
